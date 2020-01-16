@@ -13,3 +13,8 @@ en.wikipedia.org###frb-nag
 ! Slate
 slate.com###mid-article-spot-1
 slate.com###mid-article-box-1
+
+! 1/16/2020 https://www.reddit.com
+www.reddit.com###redesign-beta-optin-btn
+www.reddit.com##.premium-banner
+
