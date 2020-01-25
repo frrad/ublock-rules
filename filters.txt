@@ -20,3 +20,10 @@ www.reddit.com###redesign-beta-optin-btn
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar > .onboardingbar-body
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
+
+! Royal Road
+www.royalroad.com##.col-sm-12 > .text-center.light.portlet
+www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
+www.royalroad.com##.text-center.light.portlet
+www.royalroad.com##.text-center.uppercase.bold
+||www.royalroad.com/a/c$subdocument
