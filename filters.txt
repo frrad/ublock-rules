@@ -13,3 +13,13 @@ en.wikipedia.org###frb-nag
 ! Slate
 slate.com###mid-article-spot-1
 slate.com###mid-article-box-1
+
+
+! Reddit - mostly "opt in to redesign"
+np.reddit.com###redesign-beta-optin-btn
+old.reddit.com###redesign-beta-optin-btn
+www.reddit.com###redesign-beta-optin-btn
+www.reddit.com##.img-container
+www.reddit.com##.premium-banner
+www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar > .onboardingbar-body
+www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
