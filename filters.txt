@@ -1,6 +1,6 @@
 ! Title: Fred's Custom Filters
-
-
+! Homepage: https://github.com/frrad/ublock-rules
+! Expires: 5 days
 
 ! Wikipedia donation nags
 en.wikipedia.org###frb-main > .frb-layout > .frb-message > .frb-message-inner
@@ -9,11 +9,9 @@ en.wikipedia.org##.frb-step-1.frb-step
 en.wikipedia.org###frb-inline
 en.wikipedia.org###frb-nag
 
-
 ! Slate
 slate.com###mid-article-spot-1
 slate.com###mid-article-box-1
-
 
 ! Reddit - mostly "opt in to redesign"
 np.reddit.com###redesign-beta-optin-btn
