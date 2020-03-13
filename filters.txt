@@ -27,3 +27,14 @@ www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
 ||www.royalroad.com/a/c$subdocument
+
+! Wolfram Alpha
+www.wolframalpha.com##._2ew_lUcy._2VNNPyfw
+||www.wolframcdn.com/side-images/*.png$image
+
+! The Atlantic
+www.theatlantic.com##.c-nudge__spacing-container
+www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
+
+!! Amazon
+www.amazon.com###universal-detail-ilm
