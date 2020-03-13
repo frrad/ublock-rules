@@ -3,11 +3,17 @@
 ! Expires: 5 days
 
 ! Wikipedia donation nags
-en.wikipedia.org###frb-main > .frb-layout > .frb-message > .frb-message-inner
-en.wikipedia.org###frb-main > .frb-layout > .frb-message
-en.wikipedia.org##.frb-step-1.frb-step
+en.m.wikipedia.org###frb-nag
+en.m.wikipedia.org##.frb-inline-border
+en.m.wikipedia.org##.frb-inline-close
+en.m.wikipedia.org##.wll-cta
+en.m.wikipedia.org##.wll-image
+en.m.wikipedia.org##.wll-logo
 en.wikipedia.org###frb-inline
+en.wikipedia.org###frb-main > .frb-layout > .frb-message
+en.wikipedia.org###frb-main > .frb-layout > .frb-message > .frb-message-inner
 en.wikipedia.org###frb-nag
+en.wikipedia.org##.frb-step-1.frb-step
 
 ! Slate
 slate.com###mid-article-spot-1
@@ -24,9 +30,12 @@ www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar >
 ! Royal Road
 www.royalroad.com##.col-sm-12 > .text-center.light.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
+www.royalroad.com##.portlet-body > .text-center.wide
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
 ||www.royalroad.com/a/c$subdocument
+||www.royalroad.com/a/c?w=300&h=250&r=0.2757677845211989$subdocument
+||www.royalroad.com/a/c?w=300&h=250&r=0.5903887663638092$subdocument
 
 ! Wolfram Alpha
 www.wolframalpha.com##._2ew_lUcy._2VNNPyfw
@@ -36,5 +45,15 @@ www.wolframalpha.com##._2ew_lUcy._2VNNPyfw
 www.theatlantic.com##.c-nudge__spacing-container
 www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
 
-!! Amazon
+! Amazon
 www.amazon.com###universal-detail-ilm
+
+! SFGate
+m.sfgate.com##.s2nFrameHost
+
+
+! NYTimes
+www.nytimes.com###gateway-content
+
+! Android Central
+www.androidcentral.com##.article-shop-bar
