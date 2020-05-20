@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/frrad/ublock-rules
 ! Expires: 5 days
 
-! Wikipedia donation nags
+! wikipedia.org (sorted by sort.py)
 en.m.wikipedia.org###frb-nag
 en.m.wikipedia.org##.frb-inline-border
 en.m.wikipedia.org##.frb-inline-close
@@ -15,11 +15,11 @@ en.wikipedia.org###frb-main > .frb-layout > .frb-message > .frb-message-inner
 en.wikipedia.org###frb-nag
 en.wikipedia.org##.frb-step-1.frb-step
 
-! Slate
-slate.com###mid-article-spot-1
+! slate.com (sorted by sort.py)
 slate.com###mid-article-box-1
+slate.com###mid-article-spot-1
 
-! Reddit - mostly "opt in to redesign"
+! reddit.com (sorted by sort.py)
 np.reddit.com###redesign-beta-optin-btn
 old.reddit.com###redesign-beta-optin-btn
 www.reddit.com###redesign-beta-optin-btn
@@ -27,33 +27,125 @@ www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar > .onboardingbar-body
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
 
-! Royal Road
+! royalroad.com (sorted by sort.py)
 www.royalroad.com##.col-sm-12 > .text-center.light.portlet
+www.royalroad.com##.fiction-list-item.text-center.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.portlet-body > .text-center.wide
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
 ||www.royalroad.com/a/c$subdocument
-||www.royalroad.com/a/c?w=300&h=250&r=0.2757677845211989$subdocument
-||www.royalroad.com/a/c?w=300&h=250&r=0.5903887663638092$subdocument
 
-! Wolfram Alpha
-www.wolframalpha.com##._2ew_lUcy._2VNNPyfw
+! wolframcdn.com (sorted by sort.py)
 ||www.wolframcdn.com/side-images/*.png$image
 
-! The Atlantic
-www.theatlantic.com##.c-nudge__spacing-container
+! theatlantic.com (sorted by sort.py)
 www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
+www.theatlantic.com##.c-nudge__spacing-container
 
-! Amazon
+! amazon.com (sorted by sort.py)
 www.amazon.com###universal-detail-ilm
 
-! SFGate
+! sfgate.com (sorted by sort.py)
 m.sfgate.com##.s2nFrameHost
 
-
-! NYTimes
+! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
 
-! Android Central
+! androidcentral.com (sorted by sort.py)
 www.androidcentral.com##.article-shop-bar
+
+! latimes.com (sorted by sort.py)
+www.latimes.com##.met-rule-2793.met-flyout
+||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
+
+! venturebeat.com (sorted by sort.py)
+venturebeat.com##.MainBlock__sidebar
+venturebeat.com##.event-promo
+venturebeat.com##.xoxo
+
+! ||venturebeat.com (sorted by sort.py)
+||venturebeat.com/wp-content/uploads/2020/03/VBTransform2020-01.jpg$image
+||venturebeat.com/wp-content/uploads/2020/03/VBTransformInContent.png?strip=all$image
+
+! cbsnews.com (sorted by sort.py)
+www.cbsnews.com###breaking-news
+
+! forbes.com (sorted by sort.py)
+www.forbes.com###brightcove_perform_0
+www.forbes.com###brightcove_perform_0_html5_api
+www.forbes.com##.embed-1.link-embed.embed-base
+
+! stephenwolfram.com (sorted by sort.py)
+||writings.stephenwolfram.com/data/uploads/2019/04/idea-makers-swblog.png$image
+
+! washingtonpost.com (sorted by sort.py)
+www.washingtonpost.com###leaderboard-overlay
+www.washingtonpost.com##.fa-times.fa
+www.washingtonpost.com##.mr-sm.justify-end.flex-1.flex
+www.washingtonpost.com##.powa-custom-ctrls
+www.washingtonpost.com##div.ent-ad-container.ent-ad-leaderboard
+||www.washingtonpost.com/subscribe/paywall/get-softwall$subdocument
+
+! tomsguide.com (sorted by sort.py)
+www.tomsguide.com##.carousel__title
+www.tomsguide.com##.jw-reset.jw-media
+www.tomsguide.com##.jw-reset.jw-video
+www.tomsguide.com##.jw-reset.jw-wrapper
+www.tomsguide.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.tomsguide.com##.region_redirect_popup_asset
+
+! concert.io (sorted by sort.py)
+||cdn.concert.io/lib/adblock/curbed_local.html$subdocument
+
+! nydailynews.com (sorted by sort.py)
+www.nydailynews.com##.clln--it.nws-cnt.crd > .crd--cnt
+www.nydailynews.com##.flex-grid.crd--cnt
+www.nydailynews.com##.met-rule-1415.met-flyout
+
+! getpocket.com (sorted by sort.py)
+||assets.getpocket.com/web-discover/_next/static/images/border$image
+
+! citi.com (sorted by sort.py)
+online.citi.com###globalAlert
+
+! boomlive.in (sorted by sort.py)
+www.boomlive.in###mybotPrecautionText
+www.boomlive.in##.mybotcubespinner
+www.boomlive.in##.mybotface.mybotface4
+www.boomlive.in##.mybotface.mybotface6
+www.boomlive.in##la#top.cd-is-visible.cd-top
+||www.boomlive.in/images/cd-top-arrow.svg$image
+
+! politico.com (sorted by sort.py)
+www.politico.com##aside.has-borders.story-enhancement
+
+! puppet.com (sorted by sort.py)
+puppet.com##.pm-gdpr--not-agreed.pm-gdpr
+
+! cnn.com (sorted by sort.py)
+www.cnn.com##.duval-3
+
+! nypost.com (sorted by sort.py)
+nypost.com##.modal-inner
+
+! vox.com (sorted by sort.py)
+www.vox.com##.visible.contribute-banner.c-breaking-news
+
+! sfchronicle.com (sorted by sort.py)
+www.sfchronicle.com###subscription > .btn
+www.sfchronicle.com##.relatedStories.asset_relatedlinks
+||projects.sfchronicle.com/2020/coronavirus-questions/widget/$subdocument
+
+! nbcnews.com (sorted by sort.py)
+www.nbcnews.com##.fb_iframe_widget_fluid.fb_iframe_widget.fb-post
+
+! pagesix.com (sorted by sort.py)
+pagesix.com##.modal-inner
+
+! github.com (sorted by sort.py)
+github.com##div.bg-white.js-notice
+
+! gstatic.com (sorted by sort.py)
+||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
+||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
