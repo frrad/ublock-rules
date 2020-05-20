@@ -44,6 +44,8 @@ www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
 www.theatlantic.com##.c-nudge__spacing-container
 
 ! amazon.com (sorted by sort.py)
+www.amazon.com###nav-upnav
+www.amazon.com###nav-upnav > .nav-a
 www.amazon.com###universal-detail-ilm
 
 ! sfgate.com (sorted by sort.py)
@@ -149,3 +151,9 @@ github.com##div.bg-white.js-notice
 ! gstatic.com (sorted by sort.py)
 ||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
 ||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
+
+! ubembed.com (sorted by sort.py)
+||pages.ubembed.com$subdocument
+
+! mode.com (sorted by sort.py)
+app.mode.com##.slack-banner

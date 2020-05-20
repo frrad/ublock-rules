@@ -27,6 +27,7 @@ def group_by_root_domain(rules):
     return ans
 
 def extract_root_domain(rule):
+    rule = rule.replace('$','/')
     rule = 'http://' +rule
     res = get_tld(rule, as_object= True)
     return res.fld
