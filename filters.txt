@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/frrad/ublock-rules
 ! Expires: 5 days
 
-! Wikipedia donation nags
+! wikipedia.org (sorted by sort.py)
 en.m.wikipedia.org###frb-nag
 en.m.wikipedia.org##.frb-inline-border
 en.m.wikipedia.org##.frb-inline-close
@@ -15,11 +15,11 @@ en.wikipedia.org###frb-main > .frb-layout > .frb-message > .frb-message-inner
 en.wikipedia.org###frb-nag
 en.wikipedia.org##.frb-step-1.frb-step
 
-! Slate
-slate.com###mid-article-spot-1
+! slate.com (sorted by sort.py)
 slate.com###mid-article-box-1
+slate.com###mid-article-spot-1
 
-! Reddit - mostly "opt in to redesign"
+! reddit.com (sorted by sort.py)
 np.reddit.com###redesign-beta-optin-btn
 old.reddit.com###redesign-beta-optin-btn
 www.reddit.com###redesign-beta-optin-btn
@@ -27,7 +27,7 @@ www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar > .onboardingbar-body
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
 
-! Royal Road
+! royalroad.com (sorted by sort.py)
 www.royalroad.com##.col-sm-12 > .text-center.light.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.portlet-body > .text-center.wide
@@ -37,23 +37,24 @@ www.royalroad.com##.text-center.uppercase.bold
 ||www.royalroad.com/a/c?w=300&h=250&r=0.2757677845211989$subdocument
 ||www.royalroad.com/a/c?w=300&h=250&r=0.5903887663638092$subdocument
 
-! Wolfram Alpha
+! wolframalpha.com (sorted by sort.py)
 www.wolframalpha.com##._2ew_lUcy._2VNNPyfw
+
+! wolframcdn.com (sorted by sort.py)
 ||www.wolframcdn.com/side-images/*.png$image
 
-! The Atlantic
-www.theatlantic.com##.c-nudge__spacing-container
+! theatlantic.com (sorted by sort.py)
 www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
+www.theatlantic.com##.c-nudge__spacing-container
 
-! Amazon
+! amazon.com (sorted by sort.py)
 www.amazon.com###universal-detail-ilm
 
-! SFGate
+! sfgate.com (sorted by sort.py)
 m.sfgate.com##.s2nFrameHost
 
-
-! NYTimes
+! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
 
-! Android Central
+! androidcentral.com (sorted by sort.py)
 www.androidcentral.com##.article-shop-bar
