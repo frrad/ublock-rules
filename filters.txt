@@ -53,6 +53,7 @@ m.sfgate.com##.s2nFrameHost
 
 ! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
+www.nytimes.com###styln-briefing-block
 
 ! androidcentral.com (sorted by sort.py)
 www.androidcentral.com##.article-shop-bar
@@ -65,8 +66,6 @@ www.latimes.com##.met-rule-2793.met-flyout
 venturebeat.com##.MainBlock__sidebar
 venturebeat.com##.event-promo
 venturebeat.com##.xoxo
-
-! ||venturebeat.com (sorted by sort.py)
 ||venturebeat.com/wp-content/uploads/2020/03/VBTransform2020-01.jpg$image
 ||venturebeat.com/wp-content/uploads/2020/03/VBTransformInContent.png?strip=all$image
 
@@ -130,6 +129,7 @@ www.cnn.com##.duval-3
 
 ! nypost.com (sorted by sort.py)
 nypost.com##.modal-inner
+nypost.com##.recirc--outbrain.recirc--header.recirc.js-recirc
 
 ! vox.com (sorted by sort.py)
 www.vox.com##.visible.contribute-banner.c-breaking-news
@@ -147,9 +147,10 @@ pagesix.com##.modal-inner
 
 ! github.com (sorted by sort.py)
 github.com##div.bg-white.js-notice
+github.com##div.bg-white.js-notice:nth-of-type(1) > .js-notice-dismiss.mb-4.rounded-2.position-relative > .p-3.lh-condensed.no-underline.text-white.f6.d-block
+github.com##div.bg-white.js-notice:nth-of-type(2) > .js-notice-dismiss.mb-4.rounded-2.position-relative > .p-3.lh-condensed.no-underline.text-white.f6.d-block
 
 ! gstatic.com (sorted by sort.py)
-||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
 ||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
 
 ! ubembed.com (sorted by sort.py)
@@ -157,3 +158,56 @@ github.com##div.bg-white.js-notice
 
 ! mode.com (sorted by sort.py)
 app.mode.com##.slack-banner
+
+! gitlab.com (sorted by sort.py)
+about.gitlab.com###sticky-banner
+
+! scientificamerican.com (sorted by sort.py)
+www.scientificamerican.com##.ftprod__lt-module
+
+! techcrunch.com (sorted by sort.py)
+techcrunch.com##.announcement-banner
+
+! ikea.com (sorted by sort.py)
+www.ikea.com##.hnf-banner__container
+
+! walmart.com (sorted by sort.py)
+www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
+www.walmart.com##.InspirationalEmailSubscriber-contentBlock.text-center.InspirationalEmailSubscriber
+
+! colonist.io (sorted by sort.py)
+colonist.io###in-game-ad-left
+colonist.io###in-game-ad-right
+||colonist.io/dist/images/ab_discord.png?v74.3$image
+
+! pge.com (sorted by sort.py)
+m.pge.com##.ot-sdk-container > .ot-sdk-row
+
+! opower.com (sorted by sort.py)
+pge.opower.com##.targetedweb-banner
+
+! sciencemag.org (sorted by sort.py)
+www.sciencemag.org###donation2020
+
+! fox2detroit.com (sorted by sort.py)
+www.fox2detroit.com##.alert-inner
+
+! wired.com (sorted by sort.py)
+www.wired.com##.expand-content__expanded.expand-content
+www.wired.com##.expandable-growler-wrapper__expanded.expandable-growler-wrapper
+www.wired.com##.paywall-container-component--growler.paywall-container-component
+
+! economist.com (sorted by sort.py)
+www.economist.com###AdBillboard
+
+! xvideos.com (sorted by sort.py)
+www.xvideos.com##.bg-gradient-black.thumb-ad-red.thumb-block
+www.xvideos.com##.bg-red.thumb-ad-red.thumb-block
+
+! quickenloans.com (sorted by sort.py)
+www.quickenloans.com##.vertical.onespot-visible.slide-in.onespot-unit
+||www.quickenloans.com/nsassets/rl/chat-gfx/QL_Banker_Chat_Close.png$image
+||www.quickenloans.com/nsassets/rl/chat-gfx/QL_Blue_Chat_Pop.png$image
+
+! moveaws.com (sorted by sort.py)
+||b2c-banner.marketing.moveaws.com/welcome/banner/WSJ/wsj300x450.php$subdocument
