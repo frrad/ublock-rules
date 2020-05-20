@@ -157,3 +157,111 @@ github.com##div.bg-white.js-notice
 
 ! mode.com (sorted by sort.py)
 app.mode.com##.slack-banner
+! 3/14/2020 https://about.gitlab.com
+about.gitlab.com###sticky-banner
+
+! 3/16/2020 https://www.scientificamerican.com
+www.scientificamerican.com##.ftprod__lt-module
+||www.scientificamerican.com/public/resources/newsletters-a4ee87b05a58358303e629295ea325ea.jpg$image
+
+! 3/18/2020 https://thewirecutter.com
+thewirecutter.com##._0bf02c19
+thewirecutter.com###site_header_wrapper > ._17724317
+thewirecutter.com##.a8cbebde._9b8a5d5c
+
+! 3/18/2020 https://techcrunch.com
+techcrunch.com##.announcement-banner
+
+! 3/21/2020 https://www.ikea.com
+www.ikea.com##.hnf-banner__container
+
+! 3/22/2020 https://thewirecutter.com
+thewirecutter.com##.a410b59b
+thewirecutter.com##._9c2e3c44.d5c477fb
+thewirecutter.com##._5d19edd5._0704af03
+
+! 3/22/2020 https://www.walmart.com
+www.walmart.com##.InspirationalEmailSubscriber-contentBlock.text-center.InspirationalEmailSubscriber
+www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
+
+! 3/22/2020 https://nypost.com
+nypost.com##.modal-inner
+nypost.com##.recirc--outbrain.recirc--header.recirc.js-recirc
+
+! 3/28/2020 https://www.royalroad.com
+www.royalroad.com##.fiction-list-item.text-center.portlet
+
+! 3/28/2020 https://www.latimes.com
+||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
+www.latimes.com##.met-rule-2793.met-flyout
+
+! 3/29/2020 https://www.lifeafarinvestments.com
+||secure.livechatinc.com/licence/g8653536_94/v2/open_chat.cgi?groups=94&embedded=1&newWebserv=undefined&widget_version=2&__lc_vv=2&unique_group=1&session_id=S1585532976.977e9a9893&server=secure.livechatinc.com$subdocument
+
+! 4/5/2020 https://www.nytimes.com
+www.nytimes.com##.css-12py7dg
+www.nytimes.com##.css-16l7vy9 > div
+www.nytimes.com###styln-briefing-block
+
+! 4/6/2020 https://colonist.io
+||colonist.io/dist/images/ab_discord.png?v74.3$image
+colonist.io###in-game-ad-right
+colonist.io###in-game-ad-left
+
+! 4/18/2020 https://github.com
+github.com##div.bg-white.js-notice:nth-of-type(1) > .js-notice-dismiss.mb-4.rounded-2.position-relative > .p-3.lh-condensed.no-underline.text-white.f6.d-block
+github.com##div.bg-white.js-notice:nth-of-type(2) > .js-notice-dismiss.mb-4.rounded-2.position-relative > .p-3.lh-condensed.no-underline.text-white.f6.d-block
+
+! 4/18/2020 https://www.bhphotovideo.com
+www.bhphotovideo.com##.hero_2mT40APpNmuEGXyYiup8d3.cmsBannerCss_3Xm2OvkROX2q6hXn5CSqOM > .js-injected-html > span
+
+! 4/19/2020 https://m.pge.com
+m.pge.com##.ot-sdk-container > .ot-sdk-row
+
+! 4/19/2020 https://pge.opower.com
+pge.opower.com##.targetedweb-banner
+
+! 4/21/2020 https://www.sciencemag.org
+www.sciencemag.org###donation2020
+
+! 4/23/2020 https://www.fox2detroit.com
+www.fox2detroit.com##.alert-inner
+
+! 4/25/2020 https://linuxize.com
+||linuxize.com/images/vultr300250-bd3f0c1e216851fde615740e36826098.png$image
+
+! 4/26/2020 https://blog.tidelift.com
+||app.hubspot.com/conversations-visitor/4008838/threads/utk/960f0f961982423bb1a221b8bc2795e9?uuid=cf8673ca9abe45a1b8079d666ab0e993&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=blog.tidelift.com&inApp53=false&messagesUtk=960f0f961982423bb1a221b8bc2795e9&url=https%3A%2F%2Fblog.tidelift.com%2Fthe-third-wave-of-open-source-migration&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false$subdocument
+
+! 5/7/2020 https://www.wired.com
+www.wired.com##.expand-content__expanded.expand-content
+www.wired.com##.expandable-growler-wrapper__expanded.expandable-growler-wrapper
+www.wired.com##.paywall-container-component--growler.paywall-container-component
+
+! 5/7/2020 https://www.economist.com
+www.economist.com###AdBillboard
+
+! 5/9/2020 https://www.xvideos.com
+www.xvideos.com##.bg-gradient-black.thumb-ad-red.thumb-block
+www.xvideos.com##.bg-red.thumb-ad-red.thumb-block
+
+! 5/10/2020 https://www.quickenloans.com
+www.quickenloans.com##.vertical.onespot-visible.slide-in.onespot-unit
+||www.quickenloans.com/nsassets/rl/chat-gfx/QL_Blue_Chat_Pop.png$image
+||www.quickenloans.com/nsassets/rl/chat-gfx/QL_Banker_Chat_Close.png$image
+
+! 5/10/2020 https://www.realtor.com
+||b2c-banner.marketing.moveaws.com/welcome/banner/WSJ/wsj300x450.php$subdocument
+
+! 5/19/2020 https://thewirecutter.com
+thewirecutter.com###site_header_wrapper > .e46c9eb0
+thewirecutter.com##.cb8b2aaf.ddf8cf3e
+thewirecutter.com##._8ae263d3
+
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-B8pEb-Pa-eA-Mm
+hangouts.google.com##.g-B8pEb-Pa-we
+||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
+hangouts.google.com##.g-B8pEb-Pa-ma
+
+
