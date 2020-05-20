@@ -28,6 +28,7 @@ def group_by_root_domain(rules):
 
 def extract_root_domain(rule):
     rule = rule.replace('$','/')
+    rule = rule.replace('|','')
     rule = 'http://' +rule
     res = get_tld(rule, as_object= True)
     return res.fld
@@ -59,7 +60,7 @@ output_lines.append('')
 
 for root_domain in per_domain:
     output_lines.append ( '! '+ root_domain +  ' ' + gen_suffix)
-    rules_for_domain =    sorted(per_domain[root_domain])
+    rules_for_domain =    sorted(list(set(per_domain[root_domain])))
     for r in rules_for_domain:
         output_lines.append (r)
     output_lines.append('')

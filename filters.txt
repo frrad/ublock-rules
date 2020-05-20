@@ -30,7 +30,6 @@ www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar >
 ! royalroad.com (sorted by sort.py)
 www.royalroad.com##.col-sm-12 > .text-center.light.portlet
 www.royalroad.com##.fiction-list-item.text-center.portlet
-www.royalroad.com##.fiction-list-item.text-center.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.portlet-body > .text-center.wide
 www.royalroad.com##.text-center.light.portlet
@@ -61,16 +60,12 @@ www.androidcentral.com##.article-shop-bar
 
 ! latimes.com (sorted by sort.py)
 www.latimes.com##.met-rule-2793.met-flyout
-www.latimes.com##.met-rule-2793.met-flyout
-||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
 ||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
 
 ! venturebeat.com (sorted by sort.py)
 venturebeat.com##.MainBlock__sidebar
 venturebeat.com##.event-promo
 venturebeat.com##.xoxo
-
-! ||venturebeat.com (sorted by sort.py)
 ||venturebeat.com/wp-content/uploads/2020/03/VBTransform2020-01.jpg$image
 ||venturebeat.com/wp-content/uploads/2020/03/VBTransformInContent.png?strip=all$image
 
@@ -134,7 +129,6 @@ www.cnn.com##.duval-3
 
 ! nypost.com (sorted by sort.py)
 nypost.com##.modal-inner
-nypost.com##.modal-inner
 nypost.com##.recirc--outbrain.recirc--header.recirc.js-recirc
 
 ! vox.com (sorted by sort.py)
@@ -157,8 +151,6 @@ github.com##div.bg-white.js-notice:nth-of-type(1) > .js-notice-dismiss.mb-4.roun
 github.com##div.bg-white.js-notice:nth-of-type(2) > .js-notice-dismiss.mb-4.rounded-2.position-relative > .p-3.lh-condensed.no-underline.text-white.f6.d-block
 
 ! gstatic.com (sorted by sort.py)
-||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
-||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
 ||ssl.gstatic.com/chat/hangouts/meet-promo-background.png$image
 
 ! ubembed.com (sorted by sort.py)
@@ -183,12 +175,10 @@ www.ikea.com##.hnf-banner__container
 www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
 www.walmart.com##.InspirationalEmailSubscriber-contentBlock.text-center.InspirationalEmailSubscriber
 
-! ||colonist.io (sorted by sort.py)
-||colonist.io/dist/images/ab_discord.png?v74.3$image
-
 ! colonist.io (sorted by sort.py)
 colonist.io###in-game-ad-left
 colonist.io###in-game-ad-right
+||colonist.io/dist/images/ab_discord.png?v74.3$image
 
 ! pge.com (sorted by sort.py)
 m.pge.com##.ot-sdk-container > .ot-sdk-row
