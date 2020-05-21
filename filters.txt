@@ -6,6 +6,7 @@
 en.m.wikipedia.org###frb-nag
 en.m.wikipedia.org##.frb-inline-border
 en.m.wikipedia.org##.frb-inline-close
+en.m.wikipedia.org##.prg-inline-main
 en.m.wikipedia.org##.wll-cta
 en.m.wikipedia.org##.wll-image
 en.m.wikipedia.org##.wll-logo
@@ -211,3 +212,10 @@ www.quickenloans.com##.vertical.onespot-visible.slide-in.onespot-unit
 
 ! moveaws.com (sorted by sort.py)
 ||b2c-banner.marketing.moveaws.com/welcome/banner/WSJ/wsj300x450.php$subdocument
+
+! menshealth.com (sorted by sort.py)
+www.menshealth.com##.product-embed-image-wrap
+
+! suntimes.com (sorted by sort.py)
+chicago.suntimes.com###div-gpt-ad-mobile_leaderboard
+chicago.suntimes.com##.tp-container-inner
