@@ -55,6 +55,8 @@ m.sfgate.com##.s2nFrameHost
 ! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
 www.nytimes.com###styln-briefing-block
+www.nytimes.com##div:has( >div[ id ^= "newsletter-iframe-container"])
+www.nytimes.com##div[class*="related-links-block"]
 
 ! androidcentral.com (sorted by sort.py)
 www.androidcentral.com##.article-shop-bar
@@ -219,3 +221,12 @@ www.menshealth.com##.product-embed-image-wrap
 ! suntimes.com (sorted by sort.py)
 chicago.suntimes.com###div-gpt-ad-mobile_leaderboard
 chicago.suntimes.com##.tp-container-inner
+
+! themoscowtimes.com (sorted by sort.py)
+www.themoscowtimes.com##.contribute-bar--show.contribute-bar
+
+! geico.com (sorted by sort.py)
+ecams.geico.com###cat_banner
+
+! npr.org (sorted by sort.py)
+www.npr.org##.global-stickybar
