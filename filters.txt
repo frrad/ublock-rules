@@ -23,6 +23,8 @@ slate.com###mid-article-spot-1
 ! reddit.com (sorted by sort.py)
 np.reddit.com###redesign-beta-optin-btn
 old.reddit.com###redesign-beta-optin-btn
+pay.reddit.com###redesign-beta-optin-btn
+pay.reddit.com##.premium-banner-outer
 www.reddit.com###redesign-beta-optin-btn
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar > .onboardingbar-body
@@ -55,6 +57,8 @@ m.sfgate.com##.s2nFrameHost
 ! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
 www.nytimes.com###styln-briefing-block
+www.nytimes.com##*.expanded-dock.expanded.shown.MAG_web_anon_coronavirus-dock
+www.nytimes.com##*.expanded-dock.shown.MAG_web_anon_coronavirus-dock
 www.nytimes.com##div:has( >div[ id ^= "newsletter-iframe-container"])
 www.nytimes.com##div[class*="related-links-block"]
 
@@ -112,6 +116,9 @@ www.nydailynews.com##.met-rule-1415.met-flyout
 
 ! citi.com (sorted by sort.py)
 online.citi.com###globalAlert
+online.citi.com##.ng-star-inserted.cA-mrc-globalAlertWrapper > div.ng-star-inserted
+online.citi.com##div.weather-alert-section.alertSection
+online.citi.com##offer-details
 
 ! boomlive.in (sorted by sort.py)
 www.boomlive.in###mybotPrecautionText
@@ -138,6 +145,7 @@ nypost.com##.recirc--outbrain.recirc--header.recirc.js-recirc
 www.vox.com##.visible.contribute-banner.c-breaking-news
 
 ! sfchronicle.com (sorted by sort.py)
+www.sfchronicle.com###articleRibbon
 www.sfchronicle.com###subscription > .btn
 www.sfchronicle.com##.relatedStories.asset_relatedlinks
 ||projects.sfchronicle.com/2020/coronavirus-questions/widget/$subdocument
@@ -230,3 +238,16 @@ ecams.geico.com###cat_banner
 
 ! npr.org (sorted by sort.py)
 www.npr.org##.global-stickybar
+
+! ally.com (sorted by sort.py)
+secure.ally.com##.action-bar-content
+
+! moneytalksnews.com (sorted by sort.py)
+www.moneytalksnews.com###footer-overlay
+
+! thewirecutter.com (sorted by sort.py)
+thewirecutter.com###site_head__statement
+thewirecutter.com###site_header_wrapper
+
+! newyorker.com (sorted by sort.py)
+www.newyorker.com##.paywall-bar--visible.paywall-bar
