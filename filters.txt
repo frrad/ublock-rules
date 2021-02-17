@@ -50,6 +50,7 @@ www.theatlantic.com##.c-nudge__spacing-container
 www.amazon.com###nav-upnav
 www.amazon.com###nav-upnav > .nav-a
 www.amazon.com###universal-detail-ilm
+www.amazon.com##.digital-deals-banner-content
 
 ! sfgate.com (sorted by sort.py)
 m.sfgate.com##.s2nFrameHost
@@ -61,12 +62,14 @@ www.nytimes.com##*.expanded-dock.expanded.shown.MAG_web_anon_coronavirus-dock
 www.nytimes.com##*.expanded-dock.shown.MAG_web_anon_coronavirus-dock
 www.nytimes.com##div:has( >div[ id ^= "newsletter-iframe-container"])
 www.nytimes.com##div[class*="related-links-block"]
+www.nytimes.com##div[data-testid="expanded-dock-heading-selector"]
 
 ! androidcentral.com (sorted by sort.py)
 www.androidcentral.com##.article-shop-bar
 
 ! latimes.com (sorted by sort.py)
-www.latimes.com##.met-rule-2793.met-flyout
+www.latimes.com##.met-toast-right > div
+www.latimes.com##.wrapclicker
 ||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
 
 ! venturebeat.com (sorted by sort.py)
@@ -89,6 +92,7 @@ www.forbes.com##.embed-1.link-embed.embed-base
 
 ! washingtonpost.com (sorted by sort.py)
 www.washingtonpost.com###leaderboard-overlay
+www.washingtonpost.com###paywall-ui-responsive-modal
 www.washingtonpost.com##.fa-times.fa
 www.washingtonpost.com##.mr-sm.justify-end.flex-1.flex
 www.washingtonpost.com##.powa-custom-ctrls
@@ -211,10 +215,6 @@ www.wired.com##.paywall-container-component--growler.paywall-container-component
 ! economist.com (sorted by sort.py)
 www.economist.com###AdBillboard
 
-! xvideos.com (sorted by sort.py)
-www.xvideos.com##.bg-gradient-black.thumb-ad-red.thumb-block
-www.xvideos.com##.bg-red.thumb-ad-red.thumb-block
-
 ! quickenloans.com (sorted by sort.py)
 www.quickenloans.com##.vertical.onespot-visible.slide-in.onespot-unit
 ||www.quickenloans.com/nsassets/rl/chat-gfx/QL_Banker_Chat_Close.png$image
@@ -251,3 +251,62 @@ thewirecutter.com###site_header_wrapper
 
 ! newyorker.com (sorted by sort.py)
 www.newyorker.com##.paywall-bar--visible.paywall-bar
+
+! lowes.com (sorted by sort.py)
+www.lowes.com###chat_container
+
+! dummies.com (sorted by sort.py)
+www.dummies.com##.slideup-newsletter-optin
+
+! askubuntu.com (sorted by sort.py)
+askubuntu.com###overlay-header
+
+! superuser.com (sorted by sort.py)
+superuser.com###overlay-header
+
+! stackoverflow.com (sorted by sort.py)
+stackoverflow.com###overlay-header
+
+! stackexchange.com (sorted by sort.py)
+diy.stackexchange.com###overlay-header
+
+! imgur.com (sorted by sort.py)
+imgur.com##.AccoladesTooltip-engagementTooltip.GalleryVote-accoladesTooltip.AccoladesTooltip
+
+! plex.tv (sorted by sort.py)
+app.plex.tv##.notify.alert-bar
+
+! theglobaleconomy.com (sorted by sort.py)
+www.theglobaleconomy.com###cookies
+
+! deadline.com (sorted by sort.py)
+deadline.com##.pmc-u-background-white.\/\/.header__bar
+deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
+
+! theregister.com (sorted by sort.py)
+www.theregister.com###adtoniq-msgr-bar
+
+! theartnewspaper.com (sorted by sort.py)
+www.theartnewspaper.com##.paywall-inline-container
+
+! plotly.com (sorted by sort.py)
+community.plotly.com###custom-banner-bgc
+
+! opensnow.com (sorted by sort.py)
+opensnow.com##.promoblock
+
+! caltimes-lat-marketing-assets-dev.s3-us-west-2.amazonaws.com (sorted by sort.py)
+||caltimes-lat-marketing-assets-dev.s3-us-west-2.amazonaws.com/subscriptions/ad-arc-ears/img/bg-toaster-freedom-press.gif$image
+
+! golang.org (sorted by sort.py)
+golang.org##.Header-banner
+
+! android.com (sorted by sort.py)
+developer.android.com##.devsite-banner-message
+
+! espares.co.uk (sorted by sort.py)
+www.espares.co.uk##.visible.cookie-control-bar > .container
+
+! mozilla.org (sorted by sort.py)
+developer.mozilla.org##.mdn-cta-container
+developer.mozilla.org##.mdn-cta-content
