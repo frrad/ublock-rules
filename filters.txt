@@ -14,6 +14,8 @@ en.wikipedia.org###frb-inline
 en.wikipedia.org###frb-main > .frb-layout > .frb-message
 en.wikipedia.org###frb-main > .frb-layout > .frb-message > .frb-message-inner
 en.wikipedia.org###frb-nag
+en.wikipedia.org###siteNotice
+en.wikipedia.org##.cn-wikilovesfolklore2021_wikipedia
 en.wikipedia.org##.frb-step-1.frb-step
 
 ! slate.com (sorted by sort.py)
@@ -35,6 +37,7 @@ www.royalroad.com##.col-sm-12 > .text-center.light.portlet
 www.royalroad.com##.fiction-list-item.text-center.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.portlet-body > .text-center.wide
+www.royalroad.com##.scroll_icon
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
 ||www.royalroad.com/a/c$subdocument
@@ -60,6 +63,7 @@ www.nytimes.com###gateway-content
 www.nytimes.com###styln-briefing-block
 www.nytimes.com##*.expanded-dock.expanded.shown.MAG_web_anon_coronavirus-dock
 www.nytimes.com##*.expanded-dock.shown.MAG_web_anon_coronavirus-dock
+www.nytimes.com##.dock
 www.nytimes.com##div:has( >div[ id ^= "newsletter-iframe-container"])
 www.nytimes.com##div[class*="related-links-block"]
 www.nytimes.com##div[data-testid="expanded-dock-heading-selector"]
@@ -68,6 +72,7 @@ www.nytimes.com##div[data-testid="expanded-dock-heading-selector"]
 www.androidcentral.com##.article-shop-bar
 
 ! latimes.com (sorted by sort.py)
+www.latimes.com##.ensNotifyBanner
 www.latimes.com##.met-toast-right > div
 www.latimes.com##.wrapclicker
 ||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
@@ -109,6 +114,7 @@ www.tomsguide.com##.region_redirect_popup_asset
 
 ! concert.io (sorted by sort.py)
 ||cdn.concert.io/lib/adblock/curbed_local.html$subdocument
+||cdn.concert.io/lib/adblock/verge.html$subdocument
 
 ! nydailynews.com (sorted by sort.py)
 www.nydailynews.com##.clln--it.nws-cnt.crd > .crd--cnt
@@ -151,6 +157,7 @@ www.vox.com##.visible.contribute-banner.c-breaking-news
 ! sfchronicle.com (sorted by sort.py)
 www.sfchronicle.com###articleRibbon
 www.sfchronicle.com###subscription > .btn
+www.sfchronicle.com##.belowMastheadWrapper
 www.sfchronicle.com##.relatedStories.asset_relatedlinks
 ||projects.sfchronicle.com/2020/coronavirus-questions/widget/$subdocument
 
@@ -310,3 +317,52 @@ www.espares.co.uk##.visible.cookie-control-bar > .container
 ! mozilla.org (sorted by sort.py)
 developer.mozilla.org##.mdn-cta-container
 developer.mozilla.org##.mdn-cta-content
+
+! sutterhealth.org (sorted by sort.py)
+www.sutterhealth.org##.container.cookie-agreement.grid-construct
+
+! gohawaii.com (sorted by sort.py)
+www.gohawaii.com##.preloaded_lightbox
+
+! nolo.com (sorted by sort.py)
+www.nolo.com###bottom-right-black-bubble-invite-container
+www.nolo.com##.ngageMobileFloat
+
+! hawaiianairlines.com (sorted by sort.py)
+www.hawaiianairlines.com##.ng-click-active.ng-scope.lie-flat-banner
+
+! random.org (sorted by sort.py)
+www.random.org###cookie-banner > div
+
+! lww.com (sorted by sort.py)
+journals.lww.com##.cookie-jar
+
+! fastcompany.com (sorted by sort.py)
+www.fastcompany.com##.masthead
+www.fastcompany.com##.privacyPolicyPopup
+
+! color.com (sorted by sort.py)
+home.color.com###onetrust-banner-sdk
+www.color.com###onetrust-consent-sdk
+
+! bestbuy.com (sorted by sort.py)
+www.bestbuy.com##.c-modal-grid
+
+! reuters.com (sorted by sort.py)
+www.reuters.com###AdPlaceholder
+
+! paypal.com (sorted by sort.py)
+www.paypal.com##.foreground-container.vx_foreground-container > div
+
+! paypal-community.com (sorted by sort.py)
+www.paypal-community.com##.lia-cookie-banner-alert-text
+
+! yahoo.com (sorted by sort.py)
+news.yahoo.com###sdaAdvText-INARTICLE
+www.yahoo.com###sdaAdvText-INARTICLE
+
+! bobvila.com (sorted by sort.py)
+www.bobvila.com##.preloaded_lightbox
+
+! twitter.com (sorted by sort.py)
+twitter.com###layers
