@@ -26,6 +26,7 @@ slate.com###mid-article-spot-1
 ! reddit.com (sorted by sort.py)
 np.reddit.com###redesign-beta-optin-btn
 old.reddit.com###redesign-beta-optin-btn
+old.reddit.com##.premium-banner
 pay.reddit.com###redesign-beta-optin-btn
 pay.reddit.com##.premium-banner-outer
 www.reddit.com###redesign-beta-optin-btn
@@ -42,12 +43,14 @@ www.royalroad.com##.scroll_icon
 www.royalroad.com##.t-center.light.portlet
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
+www.royalroad.com##div.text-center.wide
 ||www.royalroad.com/a/c$subdocument
 
 ! wolframcdn.com (sorted by sort.py)
 ||www.wolframcdn.com/side-images/*.png$image
 
 ! theatlantic.com (sorted by sort.py)
+www.theatlantic.com##.NudgeCompressed_root__khUzE
 www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
 www.theatlantic.com##.c-nudge__spacing-container
 
@@ -76,6 +79,7 @@ www.androidcentral.com##.article-shop-bar
 ! latimes.com (sorted by sort.py)
 www.latimes.com##.ensNotifyBanner
 www.latimes.com##.met-toast-right > div
+www.latimes.com##.ncm-container
 www.latimes.com##.wrapclicker
 ||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
 
@@ -92,6 +96,7 @@ www.cbsnews.com###breaking-news
 ! forbes.com (sorted by sort.py)
 www.forbes.com###brightcove_perform_0
 www.forbes.com###brightcove_perform_0_html5_api
+www.forbes.com###consent_blackbar
 www.forbes.com##.embed-1.link-embed.embed-base
 
 ! stephenwolfram.com (sorted by sort.py)
@@ -154,6 +159,7 @@ nypost.com##.modal-inner
 nypost.com##.recirc--outbrain.recirc--header.recirc.js-recirc
 
 ! vox.com (sorted by sort.py)
+www.vox.com###toaster
 www.vox.com##.visible.contribute-banner.c-breaking-news
 
 ! sfchronicle.com (sorted by sort.py)
@@ -368,3 +374,19 @@ www.bobvila.com##.preloaded_lightbox
 
 ! twitter.com (sorted by sort.py)
 twitter.com###layers
+
+! instapaper.com (sorted by sort.py)
+www.instapaper.com##.js_galog.open_modal.instapaper_premium
+
+! thehill.com (sorted by sort.py)
+thehill.com###block-thehill-signup-signup-modal
+
+! travelawaits.com (sorted by sort.py)
+www.travelawaits.com##.sponsored-article-banner-wrap
+www.travelawaits.com##.vidazoo_video_wrapper
+
+! kcra.com (sorted by sort.py)
+www.kcra.com##.newsletter-signup
+
+! driftt.com (sorted by sort.py)
+||js.driftt.com/core/emailCapture$subdocument
