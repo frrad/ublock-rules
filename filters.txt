@@ -62,6 +62,7 @@ www.amazon.com##.digital-deals-banner-content
 
 ! sfgate.com (sorted by sort.py)
 m.sfgate.com##.s2nFrameHost
+www.sfgate.com##div.adModule--outer.adModule
 
 ! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
