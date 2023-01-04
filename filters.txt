@@ -4,6 +4,7 @@
 
 ! wikipedia.org (sorted by sort.py)
 en.m.wikipedia.org###frb-nag
+en.m.wikipedia.org##.banner-container
 en.m.wikipedia.org##.frb-inline-border
 en.m.wikipedia.org##.frb-inline-close
 en.m.wikipedia.org##.prg-inline-main
@@ -25,6 +26,7 @@ slate.com###mid-article-spot-1
 ! reddit.com (sorted by sort.py)
 np.reddit.com###redesign-beta-optin-btn
 old.reddit.com###redesign-beta-optin-btn
+old.reddit.com##.premium-banner
 pay.reddit.com###redesign-beta-optin-btn
 pay.reddit.com##.premium-banner-outer
 www.reddit.com###redesign-beta-optin-btn
@@ -38,14 +40,17 @@ www.royalroad.com##.fiction-list-item.text-center.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.portlet-body > .text-center.wide
 www.royalroad.com##.scroll_icon
+www.royalroad.com##.t-center.light.portlet
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
+www.royalroad.com##div.text-center.wide
 ||www.royalroad.com/a/c$subdocument
 
 ! wolframcdn.com (sorted by sort.py)
 ||www.wolframcdn.com/side-images/*.png$image
 
 ! theatlantic.com (sorted by sort.py)
+www.theatlantic.com##.NudgeCompressed_root__khUzE
 www.theatlantic.com##.c-nudge-compressed__container.c-nudge__container
 www.theatlantic.com##.c-nudge__spacing-container
 
@@ -74,6 +79,7 @@ www.androidcentral.com##.article-shop-bar
 ! latimes.com (sorted by sort.py)
 www.latimes.com##.ensNotifyBanner
 www.latimes.com##.met-toast-right > div
+www.latimes.com##.ncm-container
 www.latimes.com##.wrapclicker
 ||www.latimes.com/subscriptions/ad-arc-ears/img/LA_Skyling_toaster.svg$image
 
@@ -90,6 +96,7 @@ www.cbsnews.com###breaking-news
 ! forbes.com (sorted by sort.py)
 www.forbes.com###brightcove_perform_0
 www.forbes.com###brightcove_perform_0_html5_api
+www.forbes.com###consent_blackbar
 www.forbes.com##.embed-1.link-embed.embed-base
 
 ! stephenwolfram.com (sorted by sort.py)
@@ -152,6 +159,7 @@ nypost.com##.modal-inner
 nypost.com##.recirc--outbrain.recirc--header.recirc.js-recirc
 
 ! vox.com (sorted by sort.py)
+www.vox.com###toaster
 www.vox.com##.visible.contribute-banner.c-breaking-news
 
 ! sfchronicle.com (sorted by sort.py)
@@ -366,3 +374,35 @@ www.bobvila.com##.preloaded_lightbox
 
 ! twitter.com (sorted by sort.py)
 twitter.com###layers
+
+! instapaper.com (sorted by sort.py)
+www.instapaper.com##.js_galog.open_modal.instapaper_premium
+
+! thehill.com (sorted by sort.py)
+thehill.com###block-thehill-signup-signup-modal
+
+! travelawaits.com (sorted by sort.py)
+www.travelawaits.com##.sponsored-article-banner-wrap
+www.travelawaits.com##.vidazoo_video_wrapper
+
+! kcra.com (sorted by sort.py)
+www.kcra.com##.newsletter-signup
+
+! driftt.com (sorted by sort.py)
+||js.driftt.com/core/emailCapture$subdocument
+
+! fordhamobserver.com (sorted by sort.py)
+fordhamobserver.com##blockquote
+
+! nature.com (sorted by sort.py)
+www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
+||www.nature.com/static/images/icons/briefing-banner-illustration.png$image
+
+! digitaltrends.com (sorted by sort.py)
+www.digitaltrends.com##.ot-sdk-container > .ot-sdk-row
+
+! businessofbusiness.com (sorted by sort.py)
+www.businessofbusiness.com##.visible.global-newsletter.global-dialog
+
+! britax.com (sorted by sort.py)
+us.britax.com##.md\:hover\:text-white.md\:hover\:bg-red.md\:text-style-14.text-style-12.text-gray-5.px-16.md\:py-13.py-11.bg-gray-1.\|.alert-bar
