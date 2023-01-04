@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from tld import get_tld
-
+import sys
 
 gen_suffix = "(sorted by sort.py)"
 filter_filename = "filters.txt"
@@ -40,37 +40,41 @@ def extract_root_domain(rule):
     return res.fld
 
 
-with open(filter_filename) as f:
-    data = [x.strip("\n") for x in f.readlines()]
+def main():
+    with open(filter_filename) as f:
+        data = [x.strip("\n") for x in f.readlines()]
 
+    comments = []
+    rules = []
 
-comments = []
-rules = []
+    for l in data:
+        if is_blank(l):
+            continue
+        if is_generated(l):
+            continue
 
-for l in data:
-    if is_blank(l):
-        continue
-    if is_generated(l):
-        continue
+        if is_comment(l):
+            comments.append(l)
+        else:
+            rules.append(l)
 
-    if is_comment(l):
-        comments.append(l)
-    else:
-        rules.append(l)
+    per_domain = group_by_root_domain(rules)
 
-per_domain = group_by_root_domain(rules)
+    output_lines = []
 
-output_lines = []
-
-output_lines += comments
-output_lines.append("")
-
-for root_domain in per_domain:
-    output_lines.append("! " + root_domain + " " + gen_suffix)
-    rules_for_domain = sorted(list(set(per_domain[root_domain])))
-    for r in rules_for_domain:
-        output_lines.append(r)
+    output_lines += comments
     output_lines.append("")
 
-with open(filter_filename, "w") as f:
-    f.write(("\n".join(output_lines)))
+    for root_domain in per_domain:
+        output_lines.append("! " + root_domain + " " + gen_suffix)
+        rules_for_domain = sorted(list(set(per_domain[root_domain])))
+        for r in rules_for_domain:
+            output_lines.append(r)
+        output_lines.append("")
+
+    with open(filter_filename, "w") as f:
+        f.write(("\n".join(output_lines)))
+
+
+if __name__ == "__main__":
+    sys.exit(main())
