@@ -4,6 +4,7 @@
 
 ! wikipedia.org (sorted by sort.py)
 en.m.wikipedia.org###frb-nag
+en.m.wikipedia.org##.banner-container
 en.m.wikipedia.org##.frb-inline-border
 en.m.wikipedia.org##.frb-inline-close
 en.m.wikipedia.org##.prg-inline-main
@@ -38,6 +39,7 @@ www.royalroad.com##.fiction-list-item.text-center.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.portlet-body > .text-center.wide
 www.royalroad.com##.scroll_icon
+www.royalroad.com##.t-center.light.portlet
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
 ||www.royalroad.com/a/c$subdocument
