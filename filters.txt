@@ -390,3 +390,19 @@ www.kcra.com##.newsletter-signup
 
 ! driftt.com (sorted by sort.py)
 ||js.driftt.com/core/emailCapture$subdocument
+
+! fordhamobserver.com (sorted by sort.py)
+fordhamobserver.com##blockquote
+
+! nature.com (sorted by sort.py)
+www.nature.com##.c-site-messages--is-visible.sans-serif.c-site-messages--nature-briefing-redesign-2020.c-site-messages--nature-briefing-email-variant.c-site-messages--nature-briefing.u-hide-print.message.c-site-messages
+||www.nature.com/static/images/icons/briefing-banner-illustration.png$image
+
+! digitaltrends.com (sorted by sort.py)
+www.digitaltrends.com##.ot-sdk-container > .ot-sdk-row
+
+! businessofbusiness.com (sorted by sort.py)
+www.businessofbusiness.com##.visible.global-newsletter.global-dialog
+
+! britax.com (sorted by sort.py)
+us.britax.com##.md\:hover\:text-white.md\:hover\:bg-red.md\:text-style-14.text-style-12.text-gray-5.px-16.md\:py-13.py-11.bg-gray-1.\|.alert-bar
