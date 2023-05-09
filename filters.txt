@@ -35,6 +35,8 @@ www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
 
 ! royalroad.com (sorted by sort.py)
+www.royalroad.com###Fiction_Bottom_Desktop
+www.royalroad.com##.chapter-page.container > div > .wide
 www.royalroad.com##.col-sm-12 > .text-center.light.portlet
 www.royalroad.com##.fiction-list-item.text-center.portlet
 www.royalroad.com##.hidden-sm.hidden-xs.pull-right.profile-sidebar > div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
@@ -43,6 +45,7 @@ www.royalroad.com##.scroll_icon
 www.royalroad.com##.t-center.light.portlet
 www.royalroad.com##.text-center.light.portlet
 www.royalroad.com##.text-center.uppercase.bold
+www.royalroad.com##.text-center.wide
 www.royalroad.com##div.text-center.wide
 ||www.royalroad.com/a/c$subdocument
 
@@ -66,6 +69,7 @@ www.sfgate.com##div.adModule--outer.adModule
 
 ! nytimes.com (sorted by sort.py)
 www.nytimes.com###gateway-content
+www.nytimes.com###story-ad-1-wrapper
 www.nytimes.com###styln-briefing-block
 www.nytimes.com##*.expanded-dock.expanded.shown.MAG_web_anon_coronavirus-dock
 www.nytimes.com##*.expanded-dock.shown.MAG_web_anon_coronavirus-dock
@@ -407,3 +411,6 @@ www.businessofbusiness.com##.visible.global-newsletter.global-dialog
 
 ! britax.com (sorted by sort.py)
 us.britax.com##.md\:hover\:text-white.md\:hover\:bg-red.md\:text-style-14.text-style-12.text-gray-5.px-16.md\:py-13.py-11.bg-gray-1.\|.alert-bar
+
+! telegraph.co.uk (sorted by sort.py)
+www.telegraph.co.uk##.martech-paywall__paywall-container
