@@ -6,3 +6,7 @@ chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.ht
 then `cat >> filters.txt`, paste in the new ones and run `./sort.py`
 
 may have to `pip3 install tld`
+
+
+try also 
+https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
